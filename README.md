@@ -9,7 +9,8 @@ I am a Data Science student focused on building skills in Data Engineering and D
 
 ### 📌 Power BI
 - Sales dashboard analysis
-- Product category analysis
+
+(Dashboard preview coming soon)
 
 ## 🛠️ Technologies
 - Power BI
