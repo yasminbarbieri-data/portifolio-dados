@@ -1,21 +1,21 @@
-# 👩‍💻 Portfólio de Dados — Yasmin Barbieri
+# 👩‍💻 Data Portfolio — Yasmin Barbieri
 
-Bem-vindo ao meu portfólio de projetos em análise de dados.
+Welcome to my data projects portfolio.
 
-## 🚀 Sobre mim
-Sou estudante de Análise de Dados em formação, com foco em desenvolver habilidades em Power BI, SQL, Python e Excel.
+## 🚀 About me
+I am a Data Science student focused on building skills in Data Engineering and Data Architecture.
 
-## 📊 Projetos
+## 📊 Projects
 
 ### 📌 Power BI
-- Dashboard de análise de vendas
-- Análise de produtos por categoria
+- Sales dashboard analysis
+- Product category analysis
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 - Power BI
 - Excel
-- SQL (em aprendizado)
-- Python (em aprendizado)
+- SQL (learning)
+- Python (learning)
 
-## 🎯 Objetivo
-Evoluir para atuar como Engenheira de Dados, desenvolvendo soluções orientadas a dados.
+## 🎯 Goal
+To become a Data Engineer and, in the future, a Data Architect.
